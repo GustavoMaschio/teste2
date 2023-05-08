@@ -1,0 +1,88 @@
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\appsettings.json
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.exe
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.deps.json
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.runtimeconfig.json
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.pdb
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.50Blessings.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.build.50Blessings.props
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.50Blessings.props
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.50Blessings.props
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\scopedcss\bundle\50Blessings.styles.css
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\refint\50Blessings.dll
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.pdb
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\50Blessings\50Blessings\obj\Debug\net7.0\ref\50Blessings.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\appsettings.json
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.exe
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.deps.json
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.runtimeconfig.json
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\50Blessings.pdb
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Humanizer.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Npgsql.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.csproj.AssemblyReference.cache
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.AssemblyInfoInputs.cache
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.AssemblyInfo.cs
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.csproj.CoreCompileInputs.cache
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.50Blessings.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.build.50Blessings.props
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.50Blessings.props
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.50Blessings.props
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\scopedcss\bundle\50Blessings.styles.css
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.csproj.CopyComplete
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\refint\50Blessings.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.pdb
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\50Blessings.genruntimeconfig.cache
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\obj\Debug\net7.0\ref\50Blessings.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\55479\Documents\Pascalzim\Exemplos e teoria - Aula\50Blessings\50Blessings\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
